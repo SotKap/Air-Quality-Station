@@ -118,4 +118,4 @@ MIT License. Use freely for educational and personal projects.
 ## 🙌 Credits
 
 Built with Arduino, Grove sensors, and Blynk IoT platform  
-Created by [Your Name or Team]
+Created by [Sotiris Kaproulias]
